@@ -48,8 +48,6 @@ VulnSniffer is built to detect the following vulnerability classes:
 9. **A09: Using Components with Known Vulnerabilities**
 10. **A10: Insufficient Logging & Monitoring**
 
-> *Note: Exact coverage depends on implementation and configuration. See [docs/coverage.md](docs/coverage.md) for details.*
-
 ---
 
 ## 🚀 Installation
